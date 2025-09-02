@@ -1,0 +1,7 @@
+.used-printer-page header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),
+    url(../../assets/is-images/printer-img/used-printer.jpg);
+  height: 60vh;
+  background-position: center;
+  background-size: cover;
+}

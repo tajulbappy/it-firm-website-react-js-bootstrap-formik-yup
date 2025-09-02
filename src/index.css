@@ -1,0 +1,183 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: all;
+}
+
+
+
+code {
+  font-family: "Poppins", sans-serif;
+}
+
+/* Navbar-section-start */
+#nav-transferent {
+  background: transparent;
+}
+#company-logo {
+  width: 50px;
+  border: none;
+}
+#developer-logo {
+  width: 60px;
+  height: 30px;
+  
+}
+
+
+#company-name {
+  color: #552a2e;
+}
+
+.quality-support {
+  font-size: 12px;
+  color: #552a2e;
+}
+
+#hotline {
+  font-size: 13px;
+}
+
+#nav-link {
+  font-weight: 500;
+}
+
+.navbar-hidden {
+  transform: translateY(-100%);
+}
+
+.transition-navbar {
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Navbar-section-end */
+
+/* Contact positon-start */
+
+#contact-position header {
+  position: relative;
+}
+#position-item {
+  position: absolute;
+  top: 195px;
+  right: 80px;
+}
+/* Contact positon-end */
+
+/* Button function */
+#btn-normal {
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 4px 8px 4px 8px;
+  border-radius: 10px;
+  border: 1px solid #552a2e;
+  color: #552a2e;
+  transition: 0.3s;
+}
+#btn-normal:hover {
+  background: #552a2e;
+  color: #ffff;
+}
+
+#text-color {
+  color: #552a2e;
+ 
+}
+
+#office-location {
+  font-size: 15.5px;
+  color: #552a2e;
+}
+#icon-size {
+  font-size: 17.7px;
+}
+
+#border-color:hover {
+  border-color: #f50404;
+}
+
+#service-img {
+  width: 60px;
+  height: 60px;
+}
+
+#bg-color {
+  background-color: #f8f8f8;
+}
+
+#brand-icons {
+  height: 100px;
+}
+
+/* scale-hover-effect-start */
+.scale-hover-effect {
+  transition: transform 0.5s ease;
+}
+
+.scale-hover-effect:hover {
+  transform: scale(1.05);
+}
+
+/* scale-hover-effect-end */
+
+.product-img-list img {
+  width: 100px;
+}
+.product-img-main {
+  width: 400px;
+  height: 300px;
+}
+
+/* Style for nested dropdowns */
+.dropdown-submenu .dropdown-menu {
+  top: 0px;
+  left: 100%;
+  margin-left: 0.1rem;
+}
+
+/* Hover effect for submenu */
+.dropdown-submenu:hover .dropdown-menu {
+  display: block;
+}
+
+/* Add slight padding to submenu items */
+.dropdown-submenu .dropdown-item {
+  padding-left: 1rem !important;
+}
+
+#basic-nav-dropdown,
+#basic-nav {
+  color: white;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+/* Nav menu item hover effect-start */
+
+.custom-nav .nav-link:hover {
+  color: white  !important;
+}
+
+
+.custom-nav .dropdown-item:hover {
+  color: white  !important;
+  background-color: rgb(13, 110, 253) !important;
+  transition: 0.3s;
+}
+
+.custom-nav .dropdown-toggle:hover {
+  color: white !important;
+}
+/* Nav menu item hover effect-end */
+
+
+

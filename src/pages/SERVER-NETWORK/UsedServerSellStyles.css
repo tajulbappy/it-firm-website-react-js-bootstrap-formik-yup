@@ -1,0 +1,7 @@
+.svr-used-page header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    url(../../assets/is-images/svr-ups-img/svr-used-banner.jpg);
+  height: 60vh;
+  background-position: center;
+  background-size: cover;
+}

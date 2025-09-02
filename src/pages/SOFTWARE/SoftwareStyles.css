@@ -1,0 +1,7 @@
+.software-page header  {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
+    url(../../assets/is-images/software/soft15.jpg);
+  height: 60vh;
+  background-position: center;
+  background-size: cover;
+}

@@ -1,0 +1,8 @@
+.blog-page header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../../assets/is-images//blog-img/blog1.jpg);
+    height: 60vh;
+     background-position: center;
+    background-size: cover;
+}
+
+

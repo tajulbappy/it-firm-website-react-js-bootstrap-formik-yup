@@ -1,0 +1,7 @@
+.website-page header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)),
+    url(../../assets/is-images/web-img/web-banner1.jpg);
+  height: 60vh;
+  background-position: center;
+  background-size: cover;
+}

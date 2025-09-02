@@ -1,0 +1,7 @@
+.printer-parts-page header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)),
+    url(../../assets/is-images/printer-img/lp-parts.jpg);
+  height: 60vh;
+  background-position: center;
+  background-size: cover;
+}
