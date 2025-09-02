@@ -21,20 +21,6 @@ Live Demo : (https://innovativesolutions-bd.com/)
 - SEO-friendly content structure
 - Clean and modular codebase
 
-## How to Run Locally
-
-1.  Clone the repository
-    git clone https://github.com/your-username/it-firm-website.git
-
-2.  Navigate to the project folder
-    cd it-firm-website
-
-3.  Install dependencies
-    npm install
-
-4.  Start the development server
-    npm start
-
 ## Folder Structure
 
 ```bash
@@ -54,6 +40,4 @@ project-root/
 
 ## Author:
 Name: Md. Tajul Islam
-Contact: +88 01912 394593
 E-mail: bappy042@gmail.com
-Institute- TttL-Coder
